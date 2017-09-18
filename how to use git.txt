@@ -1,15 +1,9 @@
 #http://rogerdudler.github.io/git-guide/
 #Add to staging:
-
-git add <filename>
-git add *
-
+	git add <filename>
+	git add *
 #Add to local repository / commit:
-
-git commit -m "Commit message"
-
+	git commit -m "Commit message"
 #Add to master/external repository:
-
-git push origin master
-
+	git push origin master
 #Branching
