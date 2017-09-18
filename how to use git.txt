@@ -1,9 +1,16 @@
-#http://rogerdudler.github.io/git-guide/
-#Add to staging:
-	git add <filename>
-	git add *
-#Add to local repository / commit:
-	git commit -m "Commit message"
-#Add to master/external repository:
-	git push origin master
-#Branching
+## http://rogerdudler.github.io/git-guide/
+A website with the basics of getting git configured.
+
+## Intro Commands
+# Add to staging:
+	
+git add <filename>
+git add *
+
+# Add to local repository / commit:
+git commit -m "Commit message"
+
+# Add to master/external repository:
+git push origin master
+
+# Branching
